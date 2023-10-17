@@ -1,9 +1,13 @@
-# int0x1cated (_t0x1c_) info, stats & security audits
+# _t0x1c_'s info, stats & security audits
 
-X (Formerly twitter): https://twitter.com/int0x1catedCode <br>
-Codehawks: https://www.codehawks.com/profile/clk7rcevn0004jn08o2n2g1a5 <br>
-Code4rena (_Handle_ - t0x1c): https://code4rena.com/@t0x1c <br>
-Sherlock Handle: t0x1c <br>
+I'm a blockchain security researcher specialized in weeding out toxic bugs from codebases.
+
+Need your code audited? Find me on:
+- X (twitter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://twitter.com/int0x1catedCode <br>
+- Discord &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://discord.com/users/1055071974948352010<br>
+- Codehawks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://www.codehawks.com/profile/clk7rcevn0004jn08o2n2g1a5 <br>
+- Code4rena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://code4rena.com/@t0x1c <br>
+- Sherlock handle&nbsp; : _t0x1c_ <br>
 
 <br>
 
