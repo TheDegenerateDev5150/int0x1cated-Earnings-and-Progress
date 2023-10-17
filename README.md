@@ -1,6 +1,6 @@
 # _t0x1c_'s info, stats & security audits
 
-### I'm a blockchain security researcher specialized in weeding out toxic bugs from codebases.
+#### I'm a blockchain security researcher specialized in weeding out toxic bugs from codebases.
 
 Need your code audited? Find me on:
 - X (twitter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://twitter.com/int0x1catedCode <br>
