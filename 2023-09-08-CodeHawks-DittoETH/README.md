@@ -1,5 +1,8 @@
 # Leaderboard
+[DittoETH Contest](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc) 
+<br>
 
+![Leaderboard](image.png)
 
 # Audited Code Repo
 ### [CodeHawks: DittoETH Audit Contest](https://github.com/Cyfrin/2023-09-ditto/blob/c52c7cec881e0d41f65b057d0df51e97ccad8513)
@@ -10,30 +13,30 @@
 
 | # | Bug ID | Name | URL | Adjudged Status |
 |--------|--------|------|:------:|-----------------:|
-| 1 | [H-01](#h-01)    | Decreasing collateral after increasing it causes permanent loss of yield for the user | [185](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/185) | .. as high; `Selected Report` |
-| 2 | [H-02](#h-02)    | Users can inadvertently delete their short records via `combineShorts()` and lose all collateral | [186](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/186) |  |
-| 3 | [H-03](#h-03)    | Rounding-up of user's `cRatio` causes loss for the protocol | [234](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/234) |  |
-| 4 | [H-04](#h-04)    | Users cannot re-flag a short between the 16th & 17th hour | [301](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/301) |  |
-| 5 | [H-05](#h-05)    | Users can lose yield in `disburseCollateral()` and `_distributeYield()` due to incorrect calculations | [300](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/300) |  |
-| 6 | [H-06](#h-06)    | `_canLiquidate()` calculates first & second liquidation time-windows incorrectly | [299](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/299) |  |
-| 7 | [H-07](#h-07)    | Flag does not reset on favorable price movement | [321](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/321) |  |
-| 8 | [H-08](#h-08)    | The right of `short.flagger` to liquidate short between `firstLiquidationTime` and `secondLiquidationTime` is incorrectly transferred to another flagger | [492](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/492) |  |
-| 9 | [H-09](#h-09)    | Malicious shorter can escape liquidation perpetually | [541](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/541) |  |
-| 10 | [M-01](#m-01)    | Protocol's calculation fails for `twapPrice < 1e6`  | [187](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/187) |  |
-| 11 | [M-02](#m-02)    | `Errors.InvalidTwapPrice()` is never invoked when `if (twapPriceInEther == 0)` is true   | [188](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/188) |   |
-| 12 | [M-03](#m-03)    | Unbounded loop & lack of duplicate-array-element check in external function `distributeYield()` exposes protocol to DoS attack vector | [189](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/189) |  |
-| 13 | [M-04](#m-04)    | `decreaseCollateral()` allows user to decrease collateral by zero `amount` | [190](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/190) |  |
-| 14 | [M-05](#m-05)    | User can increase collateral by zero `amount` inside `increaseCollateral()` | [191](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/191) |  |
-| 15 | [M-06](#m-06)    | Due to precision loss, some of the unbacked asset debt is not socialized | [287](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/287) |  |
-| 16 | [M-07](#m-07)    | DoS attack possible through `liquidateSecondary()` | [288](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/288) |  |
-| 17 | [M-08](#m-08)    | Unchecked `orderHintArray` & `shortHintArray` arrays open the door to DoS attacks | [313](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/313) |  |
-| 18 | [M-09](#m-09)    | Possible DoS on depositEth, withdrawal & unstaking for `BridgeReth` | [364](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/364) |  |
-| 19 | [M-10](#m-10)    | `BridgeReth.sol::unstake()` is unreliable and depends on excess RocketDepositPool balance which can lead to DoS | [367](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/367) |  |
-| 20 | [M-11](#m-11)    | In `_performForcedBid()` during primary margin call, `m.short.ercDebt` can be calculated less than actual, causing higher than expected `ercDebtSocialized` | [390](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/390) |  |
-| 21 | [M-12](#m-12)    | Unsafe typecasting of `uint256` to `uint88` can result in protocol losing high amount in gasFee | [401](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/401) |  |
-| 22 | [M-13](#m-13)    | The check inside `createVault()` for presence of already created vaults is insufficient | [408](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/408) |  |
-| 23 | [M-14](#m-14)    | `updateYield()` will permanently stop updating yield due to unsafe typecasting of `uint256` to `uint88` | [413](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/413) |  |
-| 24 | [L-01](#l-01)    | Users get less than expected `amtZeth` (ethEscrowed) on calling `redeemErc()` | [339](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/339) |  |
+| 1 | [H-01](#h-01)    | Decreasing collateral after increasing it causes permanent loss of yield for the user | [185](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/185) | Invalidated |
+| 2 | [H-02](#h-02)    | Users can inadvertently delete their short records via `combineShorts()` and lose all collateral | [186](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/186) | Validated as Low |
+| 3 | [H-03](#h-03)    | Rounding-up of user's `cRatio` causes loss for the protocol | [234](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/234) | Validated as Medium; `Selected Report`  |
+| 4 | [H-04](#h-04)    | Users cannot re-flag a short between the 16th & 17th hour | [301](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/301) | Validated as Medium |
+| 5 | [H-05](#h-05)    | Users can lose yield in `disburseCollateral()` and `_distributeYield()` due to incorrect calculations | [300](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/300) | Invalidated |
+| 6 | [H-06](#h-06)    | `_canLiquidate()` calculates first & second liquidation time-windows incorrectly | [299](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/299) | Validated as Medium |
+| 7 | [H-07](#h-07)    | Flag does not reset on favorable price movement | [321](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/321) | Validated as Low |
+| 8 | [H-08](#h-08)    | The right of `short.flagger` to liquidate short between `firstLiquidationTime` and `secondLiquidationTime` is incorrectly transferred to another flagger | [492](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/492) | Validated as High |
+| 9 | [H-09](#h-09)    | Malicious shorter can escape liquidation perpetually | [541](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/541) | Validated as High |
+| 10 | [M-01](#m-01)    | Protocol's calculation fails for `twapPrice < 1e6`  | [187](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/187) | Validated as Low |
+| 11 | [M-02](#m-02)    | `Errors.InvalidTwapPrice()` is never invoked when `if (twapPriceInEther == 0)` is true   | [188](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/188) | Validated as Low; `Selected Report`  |
+| 12 | [M-03](#m-03)    | Unbounded loop & lack of duplicate-array-element check in external function `distributeYield()` exposes protocol to DoS attack vector | [189](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/189) | Invalidated |
+| 13 | [M-04](#m-04)    | `decreaseCollateral()` allows user to decrease collateral by zero `amount` | [190](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/190) | Invalidated |
+| 14 | [M-05](#m-05)    | User can increase collateral by zero `amount` inside `increaseCollateral()` | [191](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/191) | Invalidated |
+| 15 | [M-06](#m-06)    | Due to precision loss, some of the unbacked asset debt is not socialized | [287](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/287) | Invalidated |
+| 16 | [M-07](#m-07)    | DoS attack possible through `liquidateSecondary()` | [288](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/288) | Invalidated |
+| 17 | [M-08](#m-08)    | Unchecked `orderHintArray` & `shortHintArray` arrays open the door to DoS attacks | [313](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/313) | Invalidated |
+| 18 | [M-09](#m-09)    | Possible DoS on depositEth, withdrawal & unstaking for `BridgeReth` | [364](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/364) | Validated as Low |
+| 19 | [M-10](#m-10)    | `BridgeReth.sol::unstake()` is unreliable and depends on excess RocketDepositPool balance which can lead to DoS | [367](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/367) | Validated as Low |
+| 20 | [M-11](#m-11)    | In `_performForcedBid()` during primary margin call, `m.short.ercDebt` can be calculated less than actual, causing higher than expected `ercDebtSocialized` | [390](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/390) | Invalidated |
+| 21 | [M-12](#m-12)    | Unsafe typecasting of `uint256` to `uint88` can result in protocol losing high amount in gasFee | [401](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/401) | Invalidated |
+| 22 | [M-13](#m-13)    | The check inside `createVault()` for presence of already created vaults is insufficient | [408](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/408) | Invalidated |
+| 23 | [M-14](#m-14)    | `updateYield()` will permanently stop updating yield due to unsafe typecasting of `uint256` to `uint88` | [413](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/413) | Invalidated |
+| 24 | [L-01](#l-01)    | Users get less than expected `amtZeth` (ethEscrowed) on calling `redeemErc()` | [339](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/339) | Invalidated |
 
 
 <br>
