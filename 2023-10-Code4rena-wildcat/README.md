@@ -1,5 +1,10 @@
 # Leaderboard
+[Wildcat Contest](https://code4rena.com/contests/2023-10-the-wildcat-protocol#top) 
+<br>
 
+![Alt text](image.png)
+
+`Rank 32 / 131`
 
 # Audited Code Repo
 ### [Code4rena: Wildcat](https://github.com/code-423n4/2023-10-wildcat/commit/18bda5daf6a668cfe5dd6c0749a908e193e7b90c)

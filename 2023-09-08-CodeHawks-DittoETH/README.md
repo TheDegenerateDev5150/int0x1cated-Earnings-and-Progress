@@ -4,6 +4,8 @@
 
 ![Leaderboard](image.png)
 
+`Rank 7 / 81`
+
 # Audited Code Repo
 ### [CodeHawks: DittoETH Audit Contest](https://github.com/Cyfrin/2023-09-ditto/blob/c52c7cec881e0d41f65b057d0df51e97ccad8513)
 
