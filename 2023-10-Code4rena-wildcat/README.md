@@ -15,15 +15,15 @@
 
 | # | Bug ID | Name | URL | Adjudged Status |
 |--------|--------|------|:------:|-----------------:|
-| 1 | [H-01](#h-01)    | Lender is paid additional interest due to incorrect calculation of `scaleFactor` | [?](https://github.com/Cyfrin/2023-08-sparkn/issues/228) | Accepted; `Selected Report` |
-| 2 | [H-02](#h-02)    | During pro-rata claim calculations, lenders are credited with interest in incorrect proportions | [?](https://github.com/Cyfrin/2023-08-sparkn/issues/228) |  |
-| 3 | [H-03](#h-03)    | Incorrect `market.borrowableAssets()` calculation | [?](https://github.com/Cyfrin/2023-08-sparkn/issues/228) |  |
-| 4 | [H-04](#h-04)    | Borrower pays higher than expected penalty in case of overlapping delinquency events | [?](https://github.com/Cyfrin/2023-08-sparkn/issues/228) |  |
-| 5 | [H-05](#h-05)    | Parameter change as well as interest accrual is possible in a closed market | [?](https://github.com/Cyfrin/2023-08-sparkn/issues/228) |  |
-| 6 | [H-06](#h-06)    | Borrower escapes delinquency penalty if no intermittent action happens | [?](https://github.com/Cyfrin/2023-08-sparkn/issues/228) |  |
-| 7 | [M-01](#m-01)    | If borrower gets sanctioned, pro-rata approach harms lenders with already queued withdrawals  | [?](https://github.com/sherlock-audit/2023-09-ajna-t0x1cC0de/issues/1) |  |
-| 8 | [M-02](#m-02)    | Due to incomplete checks, controller can unfavourably lower `reserveRatioBips` during `setAnnualInterestBips()` | [?](https://github.com/sherlock-audit/2023-09-ajna-t0x1cC0de/issues/1) |  |
-| 9 | [M-03](#m-03)    | Sanction-override should be automatically removed inside `releaseEscrow()` else lender can bypass checks if he is re-flagged as sanctioned by Chainanalysis oracle  | [?](https://github.com/Cyfrin/2023-08-sparkn/issues/231) |  |
+| 1 | [H-01](#h-01)    | Lender is paid additional interest due to incorrect calculation of `scaleFactor` | [141](https://github.com/code-423n4/2023-10-wildcat-findings/issues/141) | Invalidated |
+| 2 | [H-02](#h-02)    | During pro-rata claim calculations, lenders are credited with interest in incorrect proportions | [198](https://github.com/code-423n4/2023-10-wildcat-findings/issues/198) | Invalidated |
+| 3 | [H-03](#h-03)    | Incorrect `market.borrowableAssets()` calculation | [279](https://github.com/code-423n4/2023-10-wildcat-findings/issues/279) | QA |
+| 4 | [H-04](#h-04)    | Borrower pays higher than expected penalty in case of overlapping delinquency events | [357](https://github.com/code-423n4/2023-10-wildcat-findings/issues/357) | Invalidated |
+| 5 | [H-05](#h-05)    | Parameter change as well as interest accrual is possible in a closed market | [463](https://github.com/code-423n4/2023-10-wildcat-findings/issues/463) | Invalidated |
+| 6 | [H-06](#h-06)    | Borrower escapes delinquency penalty if no intermittent action happens | [706](https://github.com/code-423n4/2023-10-wildcat-findings/issues/706) | Invalidated |
+| 7 | [M-01](#m-01)    | If borrower gets sanctioned, pro-rata approach harms lenders with already queued withdrawals  | [418](https://github.com/sherlock-audit/2023-09-ajna-t0x1cC0de/issues/418) | Invalidated |
+| 8 | [M-02](#m-02)    | Due to incomplete checks, controller can unfavourably lower `reserveRatioBips` during `setAnnualInterestBips()` | [572](https://github.com/sherlock-audit/2023-09-ajna-t0x1cC0de/issues/572) | Accepted as Medium |
+| 9 | [M-03](#m-03)    | Sanction-override should be automatically removed inside `releaseEscrow()` else lender can bypass checks if he is re-flagged as sanctioned by Chainanalysis oracle  | [643](https://github.com/code-423n4/2023-10-wildcat-findings/issues/643) | Invalidated |
 
 
 <br>
