@@ -10,6 +10,7 @@
 <br>
 
 # Bugs Filed & Their Status
+[Discussion Page](https://github.com/code-423n4/2024-03-saltyio-mitigation-findings/discussions/128)
 
 | # | Bug ID | New/Unmitigated | Name | URL | Original Finding | Adjudged Status |
 |--------|--------|------|:------|:------:|:------:|-----------------:|

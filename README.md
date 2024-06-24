@@ -1,6 +1,6 @@
 # _t0x1c_'s info, stats & security audits
 
-#### I weed out t0x1c bugs. At it since 2007.
+#### I weed out t0x1c bugs from codebases. Since 2007.
 
 Need your code audited? Find me on:
 - X (twitter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://twitter.com/int0x1catedCode <br>
@@ -16,8 +16,8 @@ Lifetime Findings : 9 Highs, 38 Mediums, 40 Lows
 Lifetime Earnings ( <i>since September 2023</i> ): `$53,318`
 <br>
 
-FY 2023-24 Earnings: `$22,829` <br>
 FY 2024-25 Earnings: `$30,489` <br>
+FY 2023-24 Earnings: `$22,829` <br>
 <br>
 
 | Year | Month | Contributions |
