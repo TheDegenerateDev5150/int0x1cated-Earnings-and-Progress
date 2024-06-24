@@ -11,13 +11,13 @@ Need your code audited? Find me on:
 
 <br>
 
-Lifetime Findings : 9 Highs, 38 Mediums, 40 Lows
+Lifetime Findings : 15 Highs, 48 Mediums, 45 Lows
 <br>
 Lifetime Earnings ( <i>since September 2023</i> ): `$57,914`
 <br>
 
 FY 2024-25 Earnings (ongoing) : `$35,085` <br>
-FY 2023-24 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : `$22,829` <br>
+FY 2023-24 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$22,829` <br>
 <br>
 
 | Year | Month | Contributions |
