@@ -13,16 +13,18 @@ Need your code audited? Find me on:
 
 Lifetime Findings : 9 Highs, 38 Mediums, 40 Lows
 <br>
-Lifetime Earnings ( <i>since September 2023</i> ): `$53,318`
+Lifetime Earnings ( <i>since September 2023</i> ): `$57,914`
 <br>
 
-FY 2024-25 Earnings: `$30,489` <br>
-FY 2023-24 Earnings: `$22,829` <br>
+FY 2024-25 Earnings (ongoing) : `$35,085` <br>
+FY 2023-24 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : `$22,829` <br>
 <br>
 
 | Year | Month | Contributions |
 |:----:|:------:|:--------------|
-| 2024 | Apr | - Private Audit - Salty.IO [[Audit Report]](2024-04-PrivateAudit-Salty_IO/README.md) <br><br> - WiseLending [[My Submissions - Will be published after official report]]() [[Official Report - Not yet made public by C4]]() `[Rank 9 / 36]` <br><br> - Taiko [[My Submissions - Will be published after official report]]() [[Official Report - Not yet made public by C4]]() `[Rank 2 / 69]` |
+| 2024 | Jun | - BakerFi [[My Submissions]](2024-05-Code4rena-bakerfi/README.md) [[Official Report]](https://code4rena.com/reports/2024-05-bakerfi-invitational) `[Rank 4 / 5]` <br><br> - Renzo [[My Submissions]](2024-05-Code4rena-Renzo/README.md) [[Official Report]](https://code4rena.com/reports/2024-04-renzo) `[Rank 36 / 122]` |
+| 2024 | May | - Hodl Money [[My Submissions]](2024-05-Code4rena-Hodl/README.md) [[Official Report]](https://code4rena.com/reports/2024-05-hodl-invitational) `[Rank 3 / 5]` <br><br> - Zivoe [[My Submissions]](2024-04-Sherlock-Zivoe/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/280/report) `[Rank 16 / 358]` |
+| 2024 | Apr | - Private Audit - Salty.IO [[Audit Report]](2024-04-PrivateAudit-Salty_IO/README.md) <br><br> - WiseLending [[My Submissions]](2024-02-Code4rena-WiseLending/README.md) [[Official Report]](https://code4rena.com/reports/2024-02-wise-lending) `[Rank 9 / 36]` <br><br> - Taiko [[My Submissions]](2024-03-Code4rena-Taiko/README.md) [[Official Report]](https://code4rena.com/reports/2024-03-taiko) `[Rank 2 / 69]` |
 | 2024 | Mar | - Mitigation Audit - Salty.IO [[My Submissions]](2024-03-Code4rena-MITIGATION-salty_io/README.md) [[Official Report]](https://code4rena.com/audits/2024-03-saltyio-mitigation-review#top) `[Rank 1 / 3]` |
 | 2024 | Feb | - The Standard [[My Submissions]](2023-12-CodeHawks-TheStandard/README.md) [[Official Report]](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl) `[Rank 6 / 100]` <br><br> - Salty.IO [[My Submissions]](2024-01-Code4rena-salty/README.md) [[Official Report]](https://code4rena.com/audits/2024-01-saltyio#top) `[Rank 2 / 177]` |
 | 2023 | Dec | - Canto [[My Submissions]](2023-11-Code4rena-canto/README.md) [[Official Report]](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) `[Rank 98 / 120]` <br><br> - Nextgen [[My Submissions]](2023-10-Code4rena-nextgen/README.md) [[Official Report]](https://code4rena.com/contests/2023-10-nextgen#top) `[Rank 12 / 242]` |

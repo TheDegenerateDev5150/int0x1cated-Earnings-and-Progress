@@ -1,7 +1,7 @@
 # Leaderboard
 [BakerFi Results](https://code4rena.com/audits/2024-05-bakerfi-invitational#top)<br>
 
-`Rank 3 / 5`
+`Rank 4 / 5`
 
 # Audited Code Repo
 ### [Code4rena: BakerFi (Invitational)](https://github.com/code-423n4/2024-05-bakerfi)
