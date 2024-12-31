@@ -3,26 +3,28 @@
 #### I weed out t0x1c bugs from codebases. Since 2007.
 
 Need your code audited? Find me on:
-- X (twitter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://twitter.com/int0x1catedCode <br>
-- Discord &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://discord.com/users/1055071974948352010<br>
+- X (twitter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://x.com/int0x1catedCode <br>
+- Discord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://discord.com/users/1055071974948352010<br>
 - Code4rena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://code4rena.com/@t0x1c <br>
 - Codehawks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://www.codehawks.com/profile/clk7rcevn0004jn08o2n2g1a5 <br>
-- Sherlock handle&nbsp; : _t0x1c_ <br>
+- Sherlock&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://audits.sherlock.xyz/watson/t0x1c <br>
 
 <br>
 
-Lifetime Findings : 15 Highs, 48 Mediums, 45 Lows
+Lifetime Findings : 20 Highs, 51 Mediums, 47 Lows
 <br>
-Lifetime Earnings ( <i>since September 2023</i> ) : `$57,914`
+Lifetime Earnings ( <i>since September 2023</i> ) : `$60,166`
 <br>
 
-FY 2024-25 Earnings (ongoing) : `$35,085` <br>
+FY 2024-25 Earnings (ongoing) : `$37,337` <br>
 FY 2023-24 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$22,829` <br>
 <br>
 
 | Year | Month | Contributions |
 |:----:|:------:|:--------------|
-| 2024 | Jun | - BakerFi [[My Submissions]](2024-05-Code4rena-bakerfi/README.md) [[Official Report]](https://code4rena.com/reports/2024-05-bakerfi-invitational) `[Rank 4 / 5]` <br><br> - Renzo [[My Submissions]](2024-05-Code4rena-Renzo/README.md) [[Official Report]](https://code4rena.com/reports/2024-04-renzo) `[Rank 36 / 122]` |
+| 2024 | Dec | - Ethos [[My Submissions]](2024-11-Sherlock-EthosNetwork/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/675/report) `[Rank 4 / 395]` <br><br> - Oku [[My Submissions]](2024-12-Sherlock-okus/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/641/report) `[Rank 31 / 309]` |
+| 2024 | Jul - Nov | - Much needed break !! | 
+| 2024 | Jun | - BakerFi [[My Submissions]](2024-05-Code4rena-bakerfi/README.md) [[Official Report]](https://code4rena.com/reports/2024-05-bakerfi-invitational) `[Rank 4 / 5]` <br><br> - Renzo [[My Submissions]](2024-05-Code4rena-Renzo/README.md) [[Official Report]](https://code4rena.com/reports/2024-04-renzo) `[Rank 36 / 122]` <br><br> - Euler-v2 [[My Submissions]](2024-05-Cantina-EULER/README.md) [[Official Report]](https://cantina.xyz/code/41306bb9-2bb8-4da6-95c3-66b85e11639f/findings/569) `[Rank 36 / 610]` |
 | 2024 | May | - Hodl Money (C4 Private Invitational Audit) `[Rank 3 / 5]` <br><br> - Zivoe [[My Submissions]](2024-04-Sherlock-Zivoe/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/280/report) `[Rank 16 / 358]` |
 | 2024 | Apr | - Private Audit - Salty.IO [[Audit Report]](2024-04-PrivateAudit-Salty_IO/README.md) <br><br> - WiseLending [[My Submissions]](2024-02-Code4rena-WiseLending/README.md) [[Official Report]](https://code4rena.com/reports/2024-02-wise-lending) `[Rank 9 / 36]` <br><br> - Taiko [[My Submissions]](2024-03-Code4rena-Taiko/README.md) [[Official Report]](https://code4rena.com/reports/2024-03-taiko) `[Rank 2 / 69]` |
 | 2024 | Mar | - Mitigation Audit - Salty.IO [[My Submissions]](2024-03-Code4rena-MITIGATION-salty_io/README.md) [[Official Report]](https://code4rena.com/audits/2024-03-saltyio-mitigation-review#top) `[Rank 1 / 3]` |
