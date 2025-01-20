@@ -11,17 +11,18 @@ Need your code audited? Find me on:
 
 <br>
 
-Lifetime Findings : 20 Highs, 51 Mediums, 47 Lows
+Lifetime Findings : 20 Highs, 53 Mediums, 47 Lows
 <br>
-Lifetime Earnings ( <i>since September 2023</i> ) : `$60,166`
+Lifetime Earnings ( <i>since September 2023</i> ) : `$67,484`
 <br>
 
-FY 2024-25 Earnings (ongoing) : `$37,337` <br>
+FY 2024-25 Earnings (ongoing) : `$44,655` <br>
 FY 2023-24 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$22,829` <br>
 <br>
 
 | Year | Month | Contributions |
 |:----:|:------:|:--------------|
+| 2025 | Jan | - Numa [[My Submissions]](2024-12-Sherlock-Numa/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/554/report) `[Rank 3 / 255]` |
 | 2024 | Dec | - Ethos [[My Submissions]](2024-11-Sherlock-EthosNetwork/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/675/report) `[Rank 4 / 395]` <br><br> - Oku [[My Submissions]](2024-12-Sherlock-okus/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/641/report) `[Rank 31 / 309]` |
 | 2024 | Jul - Nov | - Much needed break !! | 
 | 2024 | Jun | - BakerFi [[My Submissions]](2024-05-Code4rena-bakerfi/README.md) [[Official Report]](https://code4rena.com/reports/2024-05-bakerfi-invitational) `[Rank 4 / 5]` <br><br> - Renzo [[My Submissions]](2024-05-Code4rena-Renzo/README.md) [[Official Report]](https://code4rena.com/reports/2024-04-renzo) `[Rank 36 / 122]` <br><br> - Euler-v2 [[My Submissions]](2024-05-Cantina-EULER/README.md) [[Official Report]](https://cantina.xyz/code/41306bb9-2bb8-4da6-95c3-66b85e11639f/findings/569) `[Rank 36 / 610]` |
