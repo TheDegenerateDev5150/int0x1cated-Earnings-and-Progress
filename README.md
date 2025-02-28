@@ -11,18 +11,18 @@ Need your code audited? Find me on:
 
 <br>
 
-Lifetime Findings : 24 Highs, 71 Mediums, 47 Lows
+Lifetime Findings : 24 Highs, 72 Mediums, 47 Lows
 <br>
-Lifetime Earnings ( <i>since September 2023</i> ) : `$70,536`
+Lifetime Earnings ( <i>since September 2023</i> ) : `$71,456`
 <br>
 
-FY 2024-25 Earnings (ongoing) : `$47,707` <br>
+FY 2024-25 Earnings (ongoing) : `$48,627` <br>
 FY 2023-24 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$22,829` <br>
 <br>
 
 | Year | Month | Contributions |
 |:----:|:------:|:--------------|
-| 2025 | Feb | - Concrete [[My Submissions]](2024-11-Code4rena-Concrete/README.md) [[Official Report]](https://code4rena.com/reports/2024-11-concrete) `[Rank 5 / 189]` <br><br> - Plaza [[My Submissions]](2025-01-Sherlock-Plaza/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/682/report) `[Rank 22 / 2471]` |
+| 2025 | Feb | - Concrete [[My Submissions]](2024-11-Code4rena-Concrete/README.md) [[Official Report]](https://code4rena.com/reports/2024-11-concrete) `[Rank 5 / 189]` <br><br> - Plaza [[My Submissions]](2025-01-Sherlock-Plaza/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/682/report) `[Rank 22 / 2471]` <br><br> - IQAI [[My Submissions]](2025-01-Code4rena-IQAI/README.md) [[Official Report]](https://code4rena.com/reports/2025-01-iq-ai) `[Rank 5 / 671]`  |
 | 2025 | Jan | - Numa [[My Submissions]](2024-12-Sherlock-Numa/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/554/report) `[Rank 3 / 255]` |
 | 2024 | Dec | - Ethos [[My Submissions]](2024-11-Sherlock-EthosNetwork/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/675/report) `[Rank 4 / 395]` <br><br> - Oku [[My Submissions]](2024-12-Sherlock-okus/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/641/report) `[Rank 31 / 309]` |
 | 2024 | Jul - Nov | - Much needed break !! | 
