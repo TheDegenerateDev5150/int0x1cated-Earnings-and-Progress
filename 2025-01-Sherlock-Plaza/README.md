@@ -14,14 +14,14 @@
 
 | #      | Bug ID          | Name | URL    | Adjudged Status  |
 |--------|-----------------|------|:------:|-----------------:|
-| 1      | [H-01](#h-01)   | Attacker can exploit getCreateAmount() to mint more than expected tokens | [78](https://audits.sherlock.xyz/contests/682/voting/78) | High, 9 dups |
-| 2      | [H-02](#h-02)   | Protocol loses fee because claimFees() does not claim the accumulated fees as promised | [89](https://audits.sherlock.xyz/contests/682/voting/89) | High |
-| 3      | [H-03](#h-03)   | PoolSaleLimit can be breached in auctions as fee is not accounted for in calculations | [365](https://audits.sherlock.xyz/contests/682/voting/365) | Med, 11 dups |
-| 4      | [H-04](#h-04)   | Lowest bid can be ousted by attacker as bid not verified after scaling, leading to eventual DoS | [399](https://audits.sherlock.xyz/contests/682/voting/399) | Rejected |
-| 5      | [H-05](#h-05)   | Flash loan can be used to breach PoolSaleLimit in auctions | [533](https://audits.sherlock.xyz/contests/682/voting/533) | Med |
-| 6      | [M-01](#m-01)   | Higher fee charged & leverage tokens minted when pool created in a paused state | [360](https://audits.sherlock.xyz/contests/682/voting/360) | Rejected |
-| 7      | [M-02](#m-02)   | Auction can fail if USDC blacklists user after bid placement | [585](https://audits.sherlock.xyz/contests/682/voting/585) | Med |
-| 8      | [M-03](#m-03)   | User's claimable reserve tokens can get stuck due to use of raw transfer() inside claimBid() | [643](https://audits.sherlock.xyz/contests/682/voting/643) | Rejected |
+| 1      | [H-01](#h-01)   | Attacker can exploit getCreateAmount() to mint more than expected tokens | [78](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/78) | High, 9 dups |
+| 2      | [H-02](#h-02)   | Protocol loses fee because claimFees() does not claim the accumulated fees as promised | [89](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/89) | High |
+| 3      | [H-03](#h-03)   | PoolSaleLimit can be breached in auctions as fee is not accounted for in calculations | [365](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/365) | Med, 11 dups |
+| 4      | [H-04](#h-04)   | Lowest bid can be ousted by attacker as bid not verified after scaling, leading to eventual DoS | [399](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/399) | Rejected |
+| 5      | [H-05](#h-05)   | Flash loan can be used to breach PoolSaleLimit in auctions | [533](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/533) | Med |
+| 6      | [M-01](#m-01)   | Higher fee charged & leverage tokens minted when pool created in a paused state | [360](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/360) | Rejected |
+| 7      | [M-02](#m-02)   | Auction can fail if USDC blacklists user after bid placement | [585](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/585) | Med |
+| 8      | [M-03](#m-03)   | User's claimable reserve tokens can get stuck due to use of raw transfer() inside claimBid() | [643](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/643) | Rejected |
 
 <br>
 <br>
