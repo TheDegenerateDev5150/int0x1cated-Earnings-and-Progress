@@ -13,19 +13,19 @@ My Profile Summary on:
 
 <br>
 
-Lifetime Findings : 24 Highs, 78 Mediums, 47 Lows
+Lifetime Findings : 25 Highs, 80 Mediums, 47 Lows
 <br>
-Lifetime Earnings ( <i>since September 2023</i> ) : `$77,959`
+Lifetime Earnings ( <i>since September 2023</i> ) : `$79,017`
 <br>
 
-FY 2025-26 Earnings (ongoing) : `$6,503` <br>
+FY 2025-26 Earnings (ongoing) : `$7,561` <br>
 FY 2024-25 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$48,627` <br>
 FY 2023-24 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$22,829` <br>
 <br>
 
 | Year | Month | Contributions |
 |:----:|:------:|:--------------|
-| 2025 | Apr | - Nudge.xyz [[My Submissions]](2025-03-Code4rena-Nudge/README.md) [[Official Report]](https://code4rena.com/reports/2025-03-nudgexyz) `[Rank 3 / 1078]` <br><br> - Usual Labs [[My Submissions]](2025-02-Sherlock-UsualLabs/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/832) `[Rank 4 / 224]` <br><br> - PinLink [[My Submissions]](2025-03-Sherlock-Pinlink/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/852) `[Rank 2 / 424]` <br><br> - Symmio [[My Submissions]](2025-03-Sherlock-symm_io/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/838/report) `[Rank 12 / 461]` |
+| 2025 | Apr | - Nudge.xyz [[My Submissions]](2025-03-Code4rena-Nudge/README.md) [[Official Report]](https://code4rena.com/reports/2025-03-nudgexyz) `[Rank 3 / 1078]` <br><br> - Usual Labs [[My Submissions]](2025-02-Sherlock-UsualLabs/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/832) `[Rank 4 / 224]` <br><br> - PinLink [[My Submissions]](2025-03-Sherlock-Pinlink/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/852) `[Rank 2 / 424]` <br><br> - Symmio [[My Submissions]](2025-03-Sherlock-symm_io/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/838/report) `[Rank 12 / 461]` <br><br> - Gamma [[My Submissions]](2025-02-CodeHawks-Gamma/README.md) [[Official Report]](https://codehawks.cyfrin.io/c/2025-02-gamma/results?lt=contest&page=1&sc=reward&sj=reward&t=report) `[Rank 6 / 108]` |
 | 2025 | Mar | - Rova [[My Submissions]](2025-02-Sherlock-Rova/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/498/report) `[Rank 3 / 397]` |
 | 2025 | Feb | - Concrete [[My Submissions]](2024-11-Code4rena-Concrete/README.md) [[Official Report]](https://code4rena.com/reports/2024-11-concrete) `[Rank 5 / 189]` <br><br> - Plaza [[My Submissions]](2025-01-Sherlock-Plaza/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/682/report) `[Rank 22 / 2471]` <br><br> - IQAI [[My Submissions]](2025-01-Code4rena-IQAI/README.md) [[Official Report]](https://code4rena.com/reports/2025-01-iq-ai) `[Rank 5 / 671]`  |
 | 2025 | Jan | - Numa [[My Submissions]](2024-12-Sherlock-Numa/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/554/report) `[Rank 3 / 255]` |
