@@ -1,8 +1,8 @@
 # Leaderboard
 [Gamma Results](https://codehawks.cyfrin.io/c/2025-02-gamma)<br>
 
-`Rank 6 / 108`<br>
-![Result](image.png)
+`Rank 5 / 108`<br>
+![Result](image-1.png)
 
 # Audited Code Repo
 ### [CodeHawks: Gamma](https://codehawks.cyfrin.io/c/2025-02-gamma)
