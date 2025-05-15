@@ -21,11 +21,11 @@ My Profile Summary on:
 |  #2  |    4        |
 |  #3  |    4        |
 |  #4 - #10  |   9   |
+<br>
 
-<br>
-Lifetime Findings : 26 Highs, 84 Mediums, 51 Lows
-<br>
-Lifetime Earnings ( <i>since September 2023</i> ) : `$83,884` <br>
+**Lifetime Findings** : 26 Highs, 84 Mediums, 51 Lows<br>
+
+**Lifetime Earnings** ( _since September 2023_ ) : `$83,884` <br>
 <br>
 
 **Financial Year ( Apr-Mar ) Earnings Breakdown:**<br>
