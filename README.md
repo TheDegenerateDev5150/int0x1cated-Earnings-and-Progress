@@ -27,6 +27,7 @@ Total Podium Finishes: 10
 Lifetime Findings : 26 Highs, 84 Mediums, 51 Lows
 <br>
 Lifetime Earnings ( <i>since September 2023</i> ) : `$83,884`
+
 <br>
 
 **Financial Year (Apr-Mar) Earnings Breakdown:**<br>
