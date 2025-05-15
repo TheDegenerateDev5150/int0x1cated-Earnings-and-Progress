@@ -10,11 +10,10 @@ My Profile Summary on:
 - Sherlock&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://audits.sherlock.xyz/watson/t0x1c <br>
 - Code4rena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://code4rena.com/@t0x1c <br>
 - Codehawks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://www.codehawks.com/profile/clk7rcevn0004jn08o2n2g1a5 <br>
-
 <br>
 
 ## Highlights
-Total Podium Finishes: 10
+**Total Podium Finishes**: 10
 
 | Rank | Occurences  |
 |:-----|------------:|
@@ -26,11 +25,10 @@ Total Podium Finishes: 10
 <br>
 Lifetime Findings : 26 Highs, 84 Mediums, 51 Lows
 <br>
-Lifetime Earnings ( <i>since September 2023</i> ) : `$83,884`
-
+Lifetime Earnings ( <i>since September 2023</i> ) : `$83,884` <br>
 <br>
 
-**Financial Year (Apr-Mar) Earnings Breakdown:**<br>
+**Financial Year ( Apr-Mar ) Earnings Breakdown:**<br>
 FY 2025-26 Earnings (ongoing) : `$12,428` <br>
 FY 2024-25 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$48,627` <br>
 FY 2023-24 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$22,829` <br>
