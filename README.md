@@ -1,6 +1,6 @@
 # _t0x1c_'s info, stats & security audits
 
-#### I weed out t0x1c bugs from codebases. Since 2007.
+#### I weed out t0x1c bugs from codebases.
 
 Need your code audited? Find me on:
 - X (twitter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://x.com/int0x1catedCode <br>
@@ -13,18 +13,32 @@ My Profile Summary on:
 
 <br>
 
+## Highlights
+Total Podium Finishes: 10
+
+| Rank | Occurences  |
+|:-----|------------:|
+|  #1  |    2        |
+|  #2  |    4        |
+|  #3  |    4        |
+|  #4 - #10  |   9   |
+
+<br>
 Lifetime Findings : 26 Highs, 84 Mediums, 51 Lows
 <br>
-Lifetime Earnings ( <i>since September 2023</i> ) : `$81,618`
+Lifetime Earnings ( <i>since September 2023</i> ) : `$83,884`
 <br>
 
-FY 2025-26 Earnings (ongoing) : `$10,162` <br>
+**Financial Year (Apr-Mar) Earnings Breakdown:**<br>
+FY 2025-26 Earnings (ongoing) : `$12,428` <br>
 FY 2024-25 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$48,627` <br>
 FY 2023-24 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$22,829` <br>
 <br>
 
+## Detail Results
 | Year | Month | Contributions |
 |:----:|:------:|:--------------|
+| 2025 | May | - Silo Mitigation Review `[Rank 1 / 3]` ([Shared](https://x.com/int0x1catedCode/status/1922687986765873435)) |
 | 2025 | Apr | - Nudge.xyz [[My Submissions]](2025-03-Code4rena-Nudge/README.md) [[Official Report]](https://code4rena.com/reports/2025-03-nudgexyz) `[Rank 3 / 1078]` <br><br> - Usual Labs [[My Submissions]](2025-02-Sherlock-UsualLabs/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/832) `[Rank 4 / 224]` <br><br> - PinLink [[My Submissions]](2025-03-Sherlock-Pinlink/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/852) `[Rank 2 / 424]` <br><br> - Symmio [[My Submissions]](2025-03-Sherlock-symm_io/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/838/report) `[Rank 12 / 461]` <br><br> - Gamma [[My Submissions]](2025-02-CodeHawks-Gamma/README.md) [[Official Report]](https://codehawks.cyfrin.io/c/2025-02-gamma/results?lt=contest&page=1&sc=reward&sj=reward&t=report) `[Rank 5 / 108]` <br><br> - Silo Finance [[My Submissions]](2025-03-Code4rena-SiloFinance/README.md) [[Official Report]](https://code4rena.com/reports/2025-03-silo-finance) `[Rank 2 / 1136]` |
 | 2025 | Mar | - Rova [[My Submissions]](2025-02-Sherlock-Rova/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/498/report) `[Rank 3 / 397]` |
 | 2025 | Feb | - Concrete [[My Submissions]](2024-11-Code4rena-Concrete/README.md) [[Official Report]](https://code4rena.com/reports/2024-11-concrete) `[Rank 5 / 189]` <br><br> - Plaza [[My Submissions]](2025-01-Sherlock-Plaza/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/682/report) `[Rank 22 / 2471]` <br><br> - IQAI [[My Submissions]](2025-01-Code4rena-IQAI/README.md) [[Official Report]](https://code4rena.com/reports/2025-01-iq-ai) `[Rank 5 / 671]`  |
