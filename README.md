@@ -15,7 +15,7 @@ My Profile Summary on:
 ## Highlights
 **Total Podium Finishes**: 10
 
-| Rank | Occurences  |
+| Rank | Frequency   |
 |:-----|------------:|
 |  #1  |    2        |
 |  #2  |    4        |
