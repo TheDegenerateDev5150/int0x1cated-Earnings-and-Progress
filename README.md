@@ -26,7 +26,6 @@ My Profile Summary on:
 **Lifetime Findings** : 26 Highs, 84 Mediums, 51 Lows<br>
 
 **Lifetime Earnings** ( _since September 2023_ ) : `$83,884` <br>
-<br>
 
 **Financial Year ( Apr-Mar ) Earnings Breakdown:**<br>
 FY 2025-26 Earnings (ongoing) : `$12,428` <br>
