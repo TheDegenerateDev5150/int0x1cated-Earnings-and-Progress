@@ -17,13 +17,31 @@ My Profile Summary on:
 
 | Rank | Frequency   |
 |:-----|------------:|
-|  #1  |    2        |
-|  #2  |    4        |
-|  #3  |    4        |
-|  #4 - #10  |  10   |
+|  #1 🥇 |    2        |
+|  #2 🥈 |    4        |
+|  #3 🥉 |    4        |
+|  #4 - #10 🏆 |  10   |
+
 <br>
 
-**Lifetime Findings** : 27 Highs, 84 Mediums, 51 Lows<br>
+**Ranked #4** on Code4rena's [90-day leaderboard](https://x.com/int0x1catedCode/status/1782641631885160488) in April 2024.
+
+<br>
+
+**Major Wins:**
+| Protocol        | Domain Tags                              | Rank    | Amount                                                               |
+|:----------------|:-----------------------------------------|:--------:|-------------------------------------------------------------------:|
+|  [Taiko](https://code4rena.com/audits/2024-03-taiko#top)          | Based Rollup, L2, Cross-Chain, Bridge    |  🥈 #2  |  [$19,343](https://code4rena.com/audits/2024-03-taiko#top)          |
+|  [Salty.io Mitigation Review](https://code4rena.com/audits/2024-03-saltyio-mitigation-review#top)          |  DEX, AMM    |  🥇 #1  |  [$12,542](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2024-03-Code4rena-MITIGATION-salty_io/README.md#leaderboard)          |
+|  [Numa Money](https://audits.sherlock.xyz/contests/554)          |  LST-backed synthetics trading protocol    |  🥉 #3  |  [$7,318](https://x.com/sherlockdefi/status/1881375094678700422)          |
+|  [Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top)          |  Decentralized liquidity market    |  🏆 #9  |  [$7,145](https://code4rena.com/audits/2024-02-wise-lending#top)          |
+|  [Salty.io](https://code4rena.com/audits/2024-01-saltyio#top)          |  DEX, AMM    |  🥈 #2  |  [$5,264](https://code4rena.com/audits/2024-01-saltyio#top)          |
+|  [Gamma](https://codehawks.cyfrin.io/c/2025-02-gamma/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)          |  Perpetual vault for leveraged trading on GMX   |  🏆 #5  |  [$1,467](https://codehawks.cyfrin.io/c/2025-02-gamma/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)          |
+
+
+<br>
+
+**Lifetime Findings** : 111 $\rightarrow$ 27 Highs, 84 Mediums<br>
 
 **Lifetime Earnings** ( _since September 2023_ ) : `$83,917` <br>
 
