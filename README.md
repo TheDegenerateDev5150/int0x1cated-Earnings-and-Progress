@@ -20,11 +20,11 @@ My Profile Summary on:
 |  #1 🥇 |    2        |
 |  #2 🥈 |    4        |
 |  #3 🥉 |    4        |
-|  #4 - #10 🏆 |  10   |
+|  #4 - #10 🏆 |  11   |
 
 <br>
 
-**Ranked #4** on Code4rena's [90-day leaderboard](https://x.com/int0x1catedCode/status/1782641631885160488) in April 2024.
+🏆 **Ranked #4** on Code4rena's [90-day leaderboard](https://x.com/int0x1catedCode/status/1782641631885160488) in April 2024.
 
 <br>
 
@@ -32,7 +32,7 @@ My Profile Summary on:
 | Protocol        | Domain Tags                              | Rank    | Amount                                                               |
 |:----------------|:-----------------------------------------|:--------:|-------------------------------------------------------------------:|
 |  [Taiko](https://code4rena.com/audits/2024-03-taiko#top)          | Based Rollup, L2, Cross-Chain, Bridge    |  🥈 #2  |  [$19,343](https://code4rena.com/audits/2024-03-taiko#top)          |
-|  [Salty.io Mitigation Review](https://code4rena.com/audits/2024-03-saltyio-mitigation-review#top)          |  DEX, AMM    |  🥇 #1  |  [$12,542](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2024-03-Code4rena-MITIGATION-salty_io/README.md#leaderboard)          |
+|  [Salty.io Mitigation Review](https://code4rena.com/audits/2024-03-saltyio-mitigation-review#top)          |  DEX, AMM    |  🥇 #1  |  [$12,542](https://x.com/code4rena/status/1770540820803842292)          |
 |  [Numa Money](https://audits.sherlock.xyz/contests/554)          |  LST-backed synthetics trading protocol    |  🥉 #3  |  [$7,318](https://x.com/sherlockdefi/status/1881375094678700422)          |
 |  [Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top)          |  Decentralized liquidity market    |  🏆 #9  |  [$7,145](https://code4rena.com/audits/2024-02-wise-lending#top)          |
 |  [Salty.io](https://code4rena.com/audits/2024-01-saltyio#top)          |  DEX, AMM    |  🥈 #2  |  [$5,264](https://code4rena.com/audits/2024-01-saltyio#top)          |
@@ -41,12 +41,12 @@ My Profile Summary on:
 
 <br>
 
-**Lifetime Findings** : 111 $\rightarrow$ 27 Highs, 84 Mediums<br>
+**Lifetime Findings** : 113 $\rightarrow$ 28 Highs, 85 Mediums<br>
 
-**Lifetime Earnings** ( _since September 2023_ ) : `$83,917` <br>
+**Lifetime Earnings** ( _since September 2023_ ) : `$84,091` <br>
 
 **Financial Year ( Apr-Mar ) Earnings Breakdown:**<br>
-FY 2025-26 Earnings (ongoing) : `$12,461` <br>
+FY 2025-26 Earnings (ongoing) : `$12,635` <br>
 FY 2024-25 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$48,627` <br>
 FY 2023-24 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$22,829` <br>
 <br>
@@ -54,6 +54,7 @@ FY 2023-24 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs
 ## Detail Results
 | Year | Month | Contributions |
 |:----:|:------:|:--------------|
+| 2025 | Jun | - LayerEdge [[My Submissions]](2025-05-Sherlock-LayerEdge/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/952) `[Rank 5 / 1156]` |
 | 2025 | May | - Silo Mitigation Review `[Rank 1 / 3]` ([Shared](https://x.com/int0x1catedCode/status/1922687986765873435)) <br><br> - Aegis [[My Submissions]](2025-04-Sherlock-Aegis/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/799) `[Rank 4 / 429]` |
 | 2025 | Apr | - Nudge.xyz [[My Submissions]](2025-03-Code4rena-Nudge/README.md) [[Official Report]](https://code4rena.com/reports/2025-03-nudgexyz) `[Rank 3 / 1078]` <br><br> - Usual Labs [[My Submissions]](2025-02-Sherlock-UsualLabs/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/832) `[Rank 4 / 224]` <br><br> - PinLink [[My Submissions]](2025-03-Sherlock-Pinlink/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/852) `[Rank 2 / 424]` <br><br> - Symmio [[My Submissions]](2025-03-Sherlock-symm_io/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/838/report) `[Rank 12 / 461]` <br><br> - Gamma [[My Submissions]](2025-02-CodeHawks-Gamma/README.md) [[Official Report]](https://codehawks.cyfrin.io/c/2025-02-gamma/results?lt=contest&page=1&sc=reward&sj=reward&t=report) `[Rank 5 / 108]` <br><br> - Silo Finance [[My Submissions]](2025-03-Code4rena-SiloFinance/README.md) [[Official Report]](https://code4rena.com/reports/2025-03-silo-finance) `[Rank 2 / 1136]` |
 | 2025 | Mar | - Rova [[My Submissions]](2025-02-Sherlock-Rova/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/498/report) `[Rank 3 / 397]` |
