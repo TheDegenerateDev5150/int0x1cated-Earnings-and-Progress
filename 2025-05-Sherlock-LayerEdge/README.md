@@ -13,8 +13,8 @@
 
 | #      | Bug ID          | Name | URL    | Adjudged Status  |
 |--------|-----------------|------|:------:|-----------------:|
-| ?      | [H-01](#h-01)   | Incorrect interest calculated as staker history not updated inside `_checkBoundariesAndRecord()` | [219](https://audits.sherlock.xyz/contests/952/voting/219) | High |
-| ?      | [H-02](#h-02)   | Staker actions can run OOG or become too expensive due to stuffing of tier history by attacker | [265](https://audits.sherlock.xyz/contests/952/voting/265) | Med |
+| 1      | [H-01](#h-01)   | Incorrect interest calculated as staker history not updated inside `_checkBoundariesAndRecord()` | [219](https://audits.sherlock.xyz/contests/952/voting/219) | High |
+| 2      | [H-02](#h-02)   | Staker actions can run OOG or become too expensive due to stuffing of tier history by attacker | [265](https://audits.sherlock.xyz/contests/952/voting/265) | Med |
 
 <br>
 <br>
