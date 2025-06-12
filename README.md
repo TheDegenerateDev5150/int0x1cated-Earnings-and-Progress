@@ -1,7 +1,7 @@
-# _t0x1c_'s info, stats & security audits
+# 👋 _t0x1c_'s info, stats & security audits
 
 #### I weed out t0x1c bugs from codebases.
-- Security Researcher @ [Pashov Audit Group](https://x.com/PashovAuditGrp)
+- 👨‍💼 Security Researcher @ [Pashov Audit Group](https://x.com/PashovAuditGrp)
 
 Need your code audited? Find me on:
 - X (twitter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://x.com/int0x1catedCode <br>
@@ -52,17 +52,17 @@ FY 2024-25 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs
 FY 2023-24 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$22,829` <br>
 <br>
 
-## Private Audits
+## 🛡️ Private Audits
 | Year | Month | Audit Report   | Domain | Language |
 |:----:|:------:|:--------------|:------:|:--------:|
 | 2024 | Apr | [Salty.IO](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2024-04-PrivateAudit-Salty_IO/README.md) | DEX, AMM | Solidity |
 
-## [Pashov Audit Group](https://x.com/PashovAuditGrp)
+## 👨‍💼 Pashov Audit [Group](https://x.com/PashovAuditGrp)
 | Year | Month | Audit Report   | Domain | Language |
 |:----:|:------:|:--------------|:------:|:--------:|
 | 2025 | Jun | [Reserve]() - To be published | DeFi | Solidity |
 
-## Contests
+## 🏆 Contests
 | Year | Month | Contributions |
 |:----:|:------:|:--------------|
 | 2025 | Jun | - LayerEdge [[My Submissions]](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2025-05-Sherlock-LayerEdge/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/952) `[Rank 5 / 1156]` |
