@@ -4,13 +4,13 @@
 - 👨‍💼 Security Researcher @ [Pashov Audit Group](https://x.com/PashovAuditGrp)
 
 Need your code audited? Find me on:
-- X (twitter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://x.com/int0x1catedCode <br>
-- Discord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://discord.com/users/1055071974948352010<br>
+- [X (twitter)](https://x.com/int0x1catedCode) <br>
+- [Discord](https://discord.com/users/1055071974948352010) <br>
 
 My Profile Summary on:
-- Sherlock&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://audits.sherlock.xyz/watson/t0x1c <br>
-- Code4rena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://code4rena.com/@t0x1c <br>
-- Codehawks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://www.codehawks.com/profile/clk7rcevn0004jn08o2n2g1a5 <br>
+- [Sherlock](https://audits.sherlock.xyz/watson/t0x1c) <br>
+- [Code4rena](https://code4rena.com/@t0x1c) <br>
+- [Codehawks](https://www.codehawks.com/profile/clk7rcevn0004jn08o2n2g1a5) <br>
 <br>
 
 ## Highlights
@@ -42,12 +42,12 @@ My Profile Summary on:
 
 <br>
 
-**Lifetime Findings** : 113 $\rightarrow$ 28 Highs, 85 Mediums<br>
+**Lifetime Findings** : 156 $\rightarrow$ 43 Highs, 113 Mediums<br>
 
-**Lifetime Earnings** ( _since September 2023_ ) : `$84,091` <br>
+**Lifetime Earnings** ( _since September 2023_ ) : `$89,576` <br>
 
 **Financial Year ( Apr-Mar ) Earnings Breakdown:**<br>
-FY 2025-26 Earnings (ongoing) : `$12,635` <br>
+FY 2025-26 Earnings (ongoing) : `$18,120` <br>
 FY 2024-25 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$48,627` <br>
 FY 2023-24 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$22,829` <br>
 <br>
@@ -63,9 +63,9 @@ FY 2023-24 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs
 | 2025 | Jun | [Reserve]() - To be published | DeFi | Solidity |
 
 ## 🏆 Contests
-| Year | Month | Contributions |
+| Year | Month | Wins |
 |:----:|:------:|:--------------|
-| 2025 | Jun | - LayerEdge [[My Submissions]](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2025-05-Sherlock-LayerEdge/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/952) `[Rank 5 / 1156]` |
+| 2025 | Jun | - LayerEdge [[My Submissions]](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2025-05-Sherlock-LayerEdge/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/952) `[Rank 5 / 1156]` <br><br> - RAAC [[My Submissions]](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2025-02-CodeHawks-RAAC/README.md) [[Official Report]](https://codehawks.cyfrin.io/c/2025-02-raac/results?lt=contest&page=1&sc=reward&sj=reward&t=report) `[Rank 14 / 419]` <br><br> - Starknet Staking Part 2 [[Official Report]](https://codehawks.cyfrin.io/c/2025-04-starknet-part-2/results?lt=contest&page=5&sc=reward&sj=reward&t=report) `[Rank 18 / 41]` |
 | 2025 | May | - Silo Mitigation Review `[Rank 1 / 3]` ([Shared](https://x.com/int0x1catedCode/status/1922687986765873435)) <br><br> - Aegis [[My Submissions]](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2025-04-Sherlock-Aegis/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/799) `[Rank 4 / 429]` |
 | 2025 | Apr | - Nudge.xyz [[My Submissions]](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2025-03-Code4rena-Nudge/README.md) [[Official Report]](https://code4rena.com/reports/2025-03-nudgexyz) `[Rank 3 / 1078]` <br><br> - Usual Labs [[My Submissions]](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2025-02-Sherlock-UsualLabs/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/832) `[Rank 4 / 224]` <br><br> - PinLink [[My Submissions]](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2025-03-Sherlock-Pinlink/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/852) `[Rank 2 / 424]` <br><br> - Symmio [[My Submissions]](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2025-03-Sherlock-symm_io/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/838/report) `[Rank 12 / 461]` <br><br> - Gamma [[My Submissions]](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2025-02-CodeHawks-Gamma/README.md) [[Official Report]](https://codehawks.cyfrin.io/c/2025-02-gamma/results?lt=contest&page=1&sc=reward&sj=reward&t=report) `[Rank 5 / 108]` <br><br> - Silo Finance [[My Submissions]](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2025-03-Code4rena-SiloFinance/README.md) [[Official Report]](https://code4rena.com/reports/2025-03-silo-finance) `[Rank 2 / 1136]` |
 | 2025 | Mar | - Rova [[My Submissions]](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2025-02-Sherlock-Rova/README.md) [[Official Report]](https://audits.sherlock.xyz/contests/498/report) `[Rank 3 / 397]` |
