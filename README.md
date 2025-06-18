@@ -37,8 +37,20 @@ My Profile Summary on:
 |  [Numa Money](https://audits.sherlock.xyz/contests/554)          |  🥉 #3  |  [$7,318](https://x.com/sherlockdefi/status/1881375094678700422)          |  LST-backed synthetics trading protocol    |
 |  [Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top)          |  🏆 #9  |  [$7,145](https://code4rena.com/audits/2024-02-wise-lending#top)          |  Decentralized liquidity market    |
 |  [Salty.io](https://code4rena.com/audits/2024-01-saltyio#top)          |  🥈 #2  |  [$5,264](https://code4rena.com/audits/2024-01-saltyio#top)          |  DEX, AMM    |
-|  [Gamma](https://codehawks.cyfrin.io/c/2025-02-gamma/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)          |  🏆 #5  |  [$1,467](https://codehawks.cyfrin.io/c/2025-02-gamma/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)          |  Perpetual vault for leveraged trading on GMX   |
 
+<br>
+
+🎯 **Most Impactful Findings:**
+| Finding         | Severity & Dups | Protocol        | Domain                                   | 
+|:----------------|:----------------|:----------------|:-----------------------------------------|
+|  [Incorrect liquidation mechanics either causes revert on liquidation due to insufficient seizeTokens or causes transition into bad debt](https://github.com/sherlock-audit/2024-12-numa-audit-judging/issues/101)               |   Med; Unique   |  [Numa Money](https://audits.sherlock.xyz/contests/554)           |  LST-backed synthetics trading protocol    |
+|  [Deprecated markets allow profitable exploitation of bad debt liquidations](https://github.com/sherlock-audit/2024-12-numa-audit-judging/issues/67)               |   Med; Unique (Self-dup)   |  [Numa Money](https://audits.sherlock.xyz/contests/554)           |  LST-backed synthetics trading protocol    |
+| [Invocation delays are not honoured when protocol unpauses](https://github.com/code-423n4/2024-03-taiko-findings/issues/170) | Med; Unique |  [Taiko](https://code4rena.com/audits/2024-03-taiko#top)          | Based Rollup, L2, Cross-Chain, Bridge |
+| [Prover loses funds even if proven right after multiple contests](https://github.com/code-423n4/2024-03-taiko-findings/issues/227) | High; 1 dup |  [Taiko](https://code4rena.com/audits/2024-03-taiko#top)          | Based Rollup, L2, Cross-Chain, Bridge |
+| [Protocol does not check inside GuardianProver::approve() if all the guardians are approving the same proof](https://github.com/code-423n4/2024-03-taiko-findings/issues/248) | Med; 1 dup |  [Taiko](https://code4rena.com/audits/2024-03-taiko#top)          | Based Rollup, L2, Cross-Chain, Bridge |
+| [Adding liquidity with useZapping = true allows user to steal funds](https://github.com/code-423n4/2024-03-saltyio-mitigation-findings/issues/127) | Med; Unique |  [Salty.io Mitigation Review](https://code4rena.com/audits/2024-03-saltyio-mitigation-review#top)          |  DEX, AMM    |
+| [All reentrancy guards can be bypassed since sendingProgress and sendingProgressAaveHub variables inside _sendValue() can be reset](https://github.com/code-423n4/2024-02-wise-lending-findings/issues/40) | High; 1 dup |  [Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top)          |  Decentralized liquidity market    |
+| [User's attempt to deposit & withdraw reverts due to the calculation style inside _calculateShares()](https://github.com/code-423n4/2024-02-wise-lending-findings/issues/27) | Med; 1 dup |  [Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top)          |  Decentralized liquidity market    |
 
 <br>
 
