@@ -29,7 +29,7 @@ My Profile Summary on:
 
 <br>
 
-**Major Contest Wins:**
+💰 **Major Contest Wins:**
 | Protocol        | Rank    | Amount                                                             | Domain                                   | 
 |:----------------|:-------:|-------------------------------------------------------------------:|:-----------------------------------------|
 |  [Taiko](https://code4rena.com/audits/2024-03-taiko#top)          |  🥈 #2  |  [$19,343](https://code4rena.com/audits/2024-03-taiko#top)          | Based Rollup, L2, Cross-Chain, Bridge |
