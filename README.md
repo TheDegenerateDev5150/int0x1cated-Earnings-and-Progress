@@ -4,8 +4,8 @@
 - 👨‍💼 Security Researcher @ [Pashov Audit Group](https://x.com/PashovAuditGrp)
 
 Need your code audited? Find me on:
-- [X (twitter)](https://x.com/int0x1catedCode) <br>
-- [Discord](https://discord.com/users/1055071974948352010) <br>
+- [X (twitter)](https://x.com/int0x1catedCode) : @int0x1catedCode <br>
+- [Discord](https://discord.com/users/1055071974948352010) : t0x1c.c0de <br>
 
 My Profile Summary on:
 - [Sherlock](https://audits.sherlock.xyz/watson/t0x1c) <br>
