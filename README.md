@@ -66,7 +66,7 @@ My Profile Summary on:
 ## 👨‍💼 Pashov Audit [Group](https://x.com/PashovAuditGrp)
 | Year | Month | Audit Report   | Domain | Language |
 |:----:|:------:|:--------------|:------:|:--------:|
-| 2025 | Jun | [Reserve]() - To be published | DeFi | Solidity |
+| 2025 | Jun | [Reserve](https://github.com/pashov/audits/blob/master/team/pdf/Reserve-security-review_2025-06-02.pdf) | DeFi | Solidity |
 
 ## 🏆 Contests
 | Year | Month | Wins |
