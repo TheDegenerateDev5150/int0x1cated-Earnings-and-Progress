@@ -29,6 +29,10 @@ My Profile Summary on:
 
 <br>
 
+🔍 **Lifetime Findings** : 156 $\rightarrow$ 43 Highs, 113 Mediums
+
+<br>
+
 💰 **Major Contest Wins:**
 | Protocol        | Rank    | Amount                                                             | Domain                                   | 
 |:----------------|:-------:|-------------------------------------------------------------------:|:-----------------------------------------|
@@ -48,13 +52,9 @@ My Profile Summary on:
 | [Invocation delays are not honoured when protocol unpauses](https://github.com/code-423n4/2024-03-taiko-findings/issues/170) | Med; Unique |  [Taiko](https://code4rena.com/audits/2024-03-taiko#top)          | Based Rollup, L2, Cross-Chain, Bridge |
 | [Prover loses funds even if proven right after multiple contests](https://github.com/code-423n4/2024-03-taiko-findings/issues/227) | High; 1 dup |  [Taiko](https://code4rena.com/audits/2024-03-taiko#top)          | Based Rollup, L2, Cross-Chain, Bridge |
 | [Protocol does not check inside GuardianProver::approve() if all the guardians are approving the same proof](https://github.com/code-423n4/2024-03-taiko-findings/issues/248) | Med; 1 dup |  [Taiko](https://code4rena.com/audits/2024-03-taiko#top)          | Based Rollup, L2, Cross-Chain, Bridge |
-| [Adding liquidity with useZapping = true allows user to steal funds](https://github.com/code-423n4/2024-03-saltyio-mitigation-findings/issues/127) | Med; Unique |  [Salty.io Mitigation Review](https://code4rena.com/audits/2024-03-saltyio-mitigation-review#top)          |  DEX, AMM    |
+| [Adding liquidity with useZapping = true allows user to steal funds](https://github.com/t0x1cC0de/int0x1cated-Earnings-and-Progress/blob/main/2024-03-Code4rena-MITIGATION-salty_io/README.md#h-05) | Med; Unique |  [Salty.io Mitigation Review](https://code4rena.com/audits/2024-03-saltyio-mitigation-review#top)          |  DEX, AMM    |
 | [All reentrancy guards can be bypassed since sendingProgress and sendingProgressAaveHub variables inside _sendValue() can be reset](https://github.com/code-423n4/2024-02-wise-lending-findings/issues/40) | High; 1 dup |  [Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top)          |  Decentralized liquidity market    |
 | [User's attempt to deposit & withdraw reverts due to the calculation style inside _calculateShares()](https://github.com/code-423n4/2024-02-wise-lending-findings/issues/27) | Med; 1 dup |  [Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top)          |  Decentralized liquidity market    |
-
-<br>
-
-**Lifetime Findings** : 156 $\rightarrow$ 43 Highs, 113 Mediums<br>
 
 <br>
 
