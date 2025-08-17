@@ -1,13 +1,11 @@
 # 👋 _t0x1c_'s info, stats & security audits
 
 #### I weed out t0x1c bugs from codebases.
-- 👨‍💼 Security Researcher @ [Pashov Audit Group](https://x.com/PashovAuditGrp)
+- 👨‍💼 Security Specialist @ [Sherlock](https://audits.sherlock.xyz/watson/t0x1c)
 
-Need your code audited? Find me on:
+Find me on:
 - [X (twitter)](https://x.com/int0x1catedCode) : @int0x1catedCode <br>
 - [Discord](https://discord.com/users/1055071974948352010) : t0x1c.c0de <br>
-
-My Profile Summary on:
 - [Sherlock](https://audits.sherlock.xyz/watson/t0x1c) <br>
 - [Code4rena](https://code4rena.com/@t0x1c) <br>
 - [Codehawks](https://www.codehawks.com/profile/clk7rcevn0004jn08o2n2g1a5) <br>
