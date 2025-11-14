@@ -1,7 +1,10 @@
 # 👋 _t0x1c_'s info, stats & security audits
 
 #### I weed out t0x1c bugs from codebases.
-- 👨‍💼 Security Specialist @ [Sherlock](https://audits.sherlock.xyz/watson/t0x1c)
+
+Past Experience:
+- 👨‍🔬 Security Specialist @ [Sherlock](https://x.com/int0x1catedCode/status/1957684023570145694)
+- 👨‍💼 Worked with [Pashov Audit Group](https://x.com/PashovAuditGrp)
 
 Find me on:
 - [X (twitter)](https://x.com/int0x1catedCode) : @int0x1catedCode <br>
